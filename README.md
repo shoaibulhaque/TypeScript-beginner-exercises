@@ -22,7 +22,7 @@ Albert Einstein once said, “A person who never made a mistake never tried anyt
 
 6. Number Eight: Write addition, subtraction, multiplication, and division operations that each result in the number 8. Be sure to enclose your operations in print statements to see the results.
 
-
+7. Favorite Number: Store your favorite number in a variable. Then, using that variable, create a message that reveals your favorite number. Print that message.
 
 
 
