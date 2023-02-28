@@ -1,6 +1,6 @@
 # Getting Started Exercises with TypeScript and Node.js
 
-This repository contains my solutions for the getting started exercises with TypeScript and Node.js from [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/typescript-get-started/).
+This repository contains my solutions for the getting started exercises with TypeScript and Node.js.
 
 ## Prerequisites
 
