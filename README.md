@@ -22,9 +22,9 @@ tsc <filename>.ts
 
 To run the JavaScript files with Node.js, run:
 
-**Note: You can find the questions of these exercises in another repository [here](https://github.com/panaverse/typescript-node-projects/blob/main/getting-started-exercises.md).**
+node <filename>```
 
-node <filename>
+**Note: You can find the questions of these exercises in another repository [here](https://github.com/panaverse/typescript-node-projects/blob/main/getting-started-exercises.md).**
 
 ## License
 
