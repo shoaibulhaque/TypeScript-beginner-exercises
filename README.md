@@ -17,7 +17,7 @@ To run these exercises, you need to have:
 To install the dependencies for each exercise, run:
 
 ```bash
-npm install
+
 To compile the TypeScript files to JavaScript, run:
 
 tsc <filename>.ts
